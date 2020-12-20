@@ -1,4 +1,4 @@
-### Training data contains tweets and labels (emojis). You can find the emoji-label mapping in Mapping.csv.
+### Training data contains tweets and labels (emoji). You can find the emoji-label mapping in Mapping.csv.
 
 * Training Accuracy: 93%
 * Testing Accuracy: 82%
